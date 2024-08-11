@@ -81,3 +81,4 @@ export const tours = [
     price: "from $3300",
   },
 ];
+
